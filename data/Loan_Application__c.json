@@ -1,0 +1,7 @@
+{
+  "records": [
+    { "attributes": { "type": "Loan_Application__c", "referenceId": "Loan1" }, "Account__c": "@Bakery", "Product__c": "Small Business", "Stage__c": "Underwriting", "Requested_Amount__c": 250000, "Credit_Score_Band__c": "B", "Debt_To_Income__c": 38, "Missing_Documents__c": "Bank statements" },
+    { "attributes": { "type": "Loan_Application__c", "referenceId": "Loan2" }, "Account__c": "@Logistics", "Product__c": "Commercial", "Stage__c": "Underwriting", "Requested_Amount__c": 1750000, "Credit_Score_Band__c": "D", "Debt_To_Income__c": 47.5, "Missing_Documents__c": "2025 tax return; Rent roll" },
+    { "attributes": { "type": "Loan_Application__c", "referenceId": "Loan3" }, "Account__c": "@Bakery", "Product__c": "Retail", "Stage__c": "Approved", "Requested_Amount__c": 40000, "Credit_Score_Band__c": "A", "Debt_To_Income__c": 22 }
+  ]
+}
