@@ -1,0 +1,6 @@
+{
+  "records": [
+    { "attributes": { "type": "Account", "referenceId": "Bakery" }, "Name": "Maple Street Bakery (synthetic)" },
+    { "attributes": { "type": "Account", "referenceId": "Logistics" }, "Name": "Riverbend Logistics (synthetic)" }
+  ]
+}
