@@ -1,0 +1,4 @@
+[
+  { "sobject": "Account", "saveRefs": true, "resolveRefs": false, "files": ["Account.json"] },
+  { "sobject": "Loan_Application__c", "saveRefs": true, "resolveRefs": true, "files": ["Loan_Application__c.json"] }
+]
